@@ -1,0 +1,25 @@
+{
+  "pedido_id": 98765,
+  "fecha": "2024-08-19",
+  "cliente": {
+    "nombre": "Luis Pérez",
+    "correo": "luis@example.com",
+    "dirección": "Calle Falsa 123, Ciudad Zaragoza"
+  },
+  "items": [
+    {
+      "producto_id": 12345,
+      "nombre": "Laptop",
+      "cantidad": 1,
+      "precio_unitario": 799.99
+    },
+    {
+      "producto_id": 67890,
+      "nombre": "Ratón Inalámbrico",
+      "cantidad": 1,
+      "precio_unitario": 25.50
+    }
+  ],
+  "total": 850.99,
+  "estado": "En proceso"
+}
